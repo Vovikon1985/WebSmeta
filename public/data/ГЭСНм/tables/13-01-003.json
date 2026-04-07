@@ -1,0 +1,31 @@
+{
+  "code": "13-01-003",
+  "name": "Реактор",
+  "works": [
+    {
+      "code": "13-01-003-01",
+      "name": "",
+      "measureUnit": "т"
+    },
+    {
+      "code": "13-01-003-02",
+      "name": "",
+      "measureUnit": "т"
+    },
+    {
+      "code": "13-01-003-03",
+      "name": "",
+      "measureUnit": "т"
+    },
+    {
+      "code": "13-01-003-04",
+      "name": "",
+      "measureUnit": "т"
+    },
+    {
+      "code": "13-01-003-05",
+      "name": "",
+      "measureUnit": "т"
+    }
+  ]
+}

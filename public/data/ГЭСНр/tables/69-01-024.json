@@ -1,0 +1,46 @@
+{
+  "code": "69-01-024",
+  "name": "Ремонт запани",
+  "works": [
+    {
+      "code": "69-01-024-01",
+      "name": "",
+      "measureUnit": "100 м"
+    },
+    {
+      "code": "69-01-024-02",
+      "name": "",
+      "measureUnit": "100 м"
+    },
+    {
+      "code": "69-01-024-03",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "69-01-024-04",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "69-01-024-05",
+      "name": "",
+      "measureUnit": "т"
+    },
+    {
+      "code": "69-01-024-06",
+      "name": "",
+      "measureUnit": "м2"
+    },
+    {
+      "code": "69-01-024-07",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "69-01-024-08",
+      "name": "",
+      "measureUnit": "узел"
+    }
+  ]
+}

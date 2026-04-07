@@ -1,0 +1,71 @@
+{
+  "code": "35-01-072",
+  "name": "Батареи клеточные",
+  "works": [
+    {
+      "code": "35-01-072-01",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-072-02",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "35-01-072-03",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-072-04",
+      "name": "",
+      "measureUnit": "секция"
+    },
+    {
+      "code": "35-01-072-05",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-072-06",
+      "name": "",
+      "measureUnit": "секция"
+    },
+    {
+      "code": "35-01-072-07",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "35-01-072-08",
+      "name": "",
+      "measureUnit": "секция"
+    },
+    {
+      "code": "35-01-072-09",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "35-01-072-10",
+      "name": "",
+      "measureUnit": "секция"
+    },
+    {
+      "code": "35-01-072-11",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "35-01-072-12",
+      "name": "",
+      "measureUnit": "секция"
+    },
+    {
+      "code": "35-01-072-13",
+      "name": "",
+      "measureUnit": "шт"
+    }
+  ]
+}

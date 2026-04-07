@@ -1,0 +1,61 @@
+{
+  "code": "35-01-002",
+  "name": "Транспортеры и погрузчики",
+  "works": [
+    {
+      "code": "35-01-002-01",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-002-02",
+      "name": "",
+      "measureUnit": "м"
+    },
+    {
+      "code": "35-01-002-03",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-002-04",
+      "name": "",
+      "measureUnit": "м"
+    },
+    {
+      "code": "35-01-002-05",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-002-06",
+      "name": "",
+      "measureUnit": "м"
+    },
+    {
+      "code": "35-01-002-07",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-002-08",
+      "name": "",
+      "measureUnit": "секция"
+    },
+    {
+      "code": "35-01-002-09",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "35-01-002-10",
+      "name": "",
+      "measureUnit": "м"
+    },
+    {
+      "code": "35-01-002-11",
+      "name": "",
+      "measureUnit": "компл"
+    }
+  ]
+}

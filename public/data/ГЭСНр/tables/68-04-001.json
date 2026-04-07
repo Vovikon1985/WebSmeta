@@ -1,0 +1,41 @@
+{
+  "code": "68-04-001",
+  "name": "Разные работы",
+  "works": [
+    {
+      "code": "68-04-001-01",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "68-04-001-02",
+      "name": "",
+      "measureUnit": "100 м2"
+    },
+    {
+      "code": "68-04-001-03",
+      "name": "",
+      "measureUnit": "100 м2"
+    },
+    {
+      "code": "68-04-001-04",
+      "name": "",
+      "measureUnit": "га"
+    },
+    {
+      "code": "68-04-001-05",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "68-04-001-06",
+      "name": "",
+      "measureUnit": "м3"
+    },
+    {
+      "code": "68-04-001-07",
+      "name": "",
+      "measureUnit": "м2"
+    }
+  ]
+}

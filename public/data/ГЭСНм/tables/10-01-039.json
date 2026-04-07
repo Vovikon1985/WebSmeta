@@ -1,0 +1,36 @@
+{
+  "code": "10-01-039",
+  "name": "Детали разные",
+  "works": [
+    {
+      "code": "10-01-039-01",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "10-01-039-02",
+      "name": "",
+      "measureUnit": "м"
+    },
+    {
+      "code": "10-01-039-03",
+      "name": "",
+      "measureUnit": "шт"
+    },
+    {
+      "code": "10-01-039-04",
+      "name": "",
+      "measureUnit": "компл"
+    },
+    {
+      "code": "10-01-039-05",
+      "name": "",
+      "measureUnit": "м"
+    },
+    {
+      "code": "10-01-039-06",
+      "name": "",
+      "measureUnit": "шт"
+    }
+  ]
+}
