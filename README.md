@@ -1,16 +1,24 @@
-# React + Vite
+# WebSmeta 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Веб-приложение для работы с нормативными базами ГЭСН (Государственные элементные сметные нормы). Позволяет просматривать, искать и использовать сметные нормативы в ресурсно-индексном методе расчёта.
 
-Currently, two official plugins are available:
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18-blue)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-5-purple)](https://vitejs.dev)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Быстрый старт
 
-## React Compiler
+### Предварительные требования
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [Node.js](https://nodejs.org/) версии 18 или выше
+- [Git](https://git-scm.com/)
 
-## Expanding the ESLint configuration
+### Установка
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+# Клонируйте репозиторий
+git clone https://github.com/Vovikon1985/WebSmeta.git
+cd WebSmeta
+
+# Установите зависимости
+npm install
