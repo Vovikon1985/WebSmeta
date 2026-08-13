@@ -1,24 +1,80 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+```
+# Build results
+bin/
+obj/
+Debug/
+Release/
 
-node_modules
-dist
-dist-ssr
-*.local
+# Dependencies
+packages/
+*.nupkg
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
+# IDE files
+.vs/
+*.user
+*.userosscache
 *.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment specific files
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+
+# User-specific files
+.vscode/settings.json
+
+# XML documentation
+*.xml
+
+# Temporary files
+*.tmp
+*.temp
+
+# AutoCAD plugin related
+*.bundle/
+*.dcl
+
+# Configuration files that might contain secrets
+appsettings.*.json
+!appsettings.json
+
+# Browser extensions
+*.crx
+*.xpi
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+*.tgz
+*.tbz2
+*.txz
+*.zipx
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+
+```
