@@ -1,24 +1,27 @@
-# WebSmeta 💰
+# Executive Documentation System (EDS)
 
-Веб-приложение для работы с нормативными базами ГЭСН (Государственные элементные сметные нормы). Позволяет просматривать, искать и использовать сметные нормативы в ресурсно-индексном методе расчёта.
+Desktop-приложение для автоматизации ведения исполнительной документации в строительстве.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![React](https://img.shields.io/badge/React-18-blue)](https://react.dev)
-[![Vite](https://img.shields.io/badge/Vite-5-purple)](https://vitejs.dev)
+## Features
+- Импорт смет из Гранд-Смета (XML/Excel).
+- Интеграция с AutoCAD (привязка объемов к геометрии).
+- Генерация актов КС-2, КС-3.
+- Локальное хранение данных (SQLite).
 
-## 🚀 Быстрый старт
+## Tech Stack
+- C# (.NET 8 / .NET Framework 4.8)
+- WinForms
+- SQLite (Dapper + EF Core)
+- AutoCAD .NET API
+- Named Pipes (IPC)
 
-### Предварительные требования
+## Structure
+See `.ai/ARCHITECTURE.md` for detailed design.
 
-- [Node.js](https://nodejs.org/) версии 18 или выше
-- [Git](https://git-scm.com/)
+## Getting Started
+1. Open `ExecutiveDocumentation.sln` in Visual Studio 2022.
+2. Restore NuGet packages.
+3. Set `ExecutiveDocumentation.App` as startup project.
 
-### Установка
-
-```bash
-# Клонируйте репозиторий
-git clone https://github.com/Vovikon1985/WebSmeta.git
-cd WebSmeta
-
-# Установите зависимости
-npm install
+## Build Status
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
